@@ -65,17 +65,4 @@
       "title": "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
       "url": "https://creativecommons.org/licenses/by-sa/4.0"
     },
-    {
-     "domain_content": true,
-      "domain_data": true,
-      "domain_software": false,
-      "family": "Creative Commons",
-      "id": "CC-BY-NC-SA-4.0",
-      "maintainer": "Creative Commons",
-      "od_conformance": "rejected",
-      "osd_conformance": "not reviewed",
-      "status": "active",
-      "title": "CC BY-NC-SA 4.0 Attribution-NonCommercial-ShareAlike 4.0",
-      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0"
-    }
 ]
