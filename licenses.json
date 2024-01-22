@@ -77,5 +77,19 @@
         "status": "active",
         "title": "Attribution 4.0 International (CC BY 4.0)",
         "url": "https://creativecommons.org/licenses/by/4.0/"
-    }
+    },
+    {
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "Creative Commons",
+        "id": "CC0 1.0 Universal ",
+        "maintainer": "Creative Commons",
+        "od_conformance": "rejected",
+        "osd_conformance": "not reviewed",
+        "status": "active",
+        "title": " CC0 1.0 Legal Code ",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/legalcode"
+
+  }
 ]
