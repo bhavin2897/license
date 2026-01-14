@@ -119,6 +119,21 @@
   "title": "Open Data Commons Database Contents License 1.0 (DBCL 1.0)",
   "url": "https://opendatacommons.org/licenses/dbcl/1-0/",
   "license": "https://opendatacommons.org/licenses/dbcl/1-0/"
+},
+  {
+  "domain_content": false,
+  "domain_data": false,
+  "domain_software": true,
+  "family": "GNU",
+  "id": "LGPL-3.0",
+  "maintainer": "Free Software Foundation",
+  "od_conformance": "not reviewed",
+  "osd_conformance": "approved",
+  "status": "active",
+  "title": "GNU Lesser General Public License v3.0",
+  "url": "https://www.gnu.org/licenses/lgpl-3.0-standalone.html",
+  "license": "https://www.gnu.org/licenses/lgpl-3.0-standalone.html"
 }
+
 
 ]
